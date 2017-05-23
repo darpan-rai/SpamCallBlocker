@@ -1,0 +1,2 @@
+# SpamCallBlocker
+a database backed Android mobile application using the agile development method. The said application shall block all the incoming spam calls by checking the incoming number against the ones that are present in the database. In the case where the incoming number is not present in the database, the application would allow the user to add that spam number to the cloud storage, the database. It would also block all future incoming spam calls to all the users from the number irrespective of which user had added the number.
